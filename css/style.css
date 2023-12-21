@@ -286,6 +286,10 @@
     background-size: cover;
     margin-top: none;
 }
+.bg-career {
+    background-size: cover;
+    margin-top: none;
+}
 
 .price-carousel::after {
     position: absolute;

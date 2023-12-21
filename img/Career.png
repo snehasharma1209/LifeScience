@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<!-- saved from url=(0040)https://kamallifescience.com/career.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Kamal Life Science | About</title>
+    <link rel="shortcut icon" type="image/f-icon" href="https://kamallifescience.com/images/favicon.png">
+    <!-- Bootstrap -->
+    <link href="./Career_files/bootstrap.min.css" rel="stylesheet">
+    <link href="./Career_files/all.css" rel="stylesheet">
+    <link href="./Career_files/style.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar navbar-default">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="https://kamallifescience.com/index.html">
+                        <img src="./Career_files/logo.png" alt="">
+                    </a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="https://kamallifescience.com/index.html">Home</a>
+                        </li>
+                        <li>
+                            <a href="https://kamallifescience.com/about.html">About Us</a>
+                        </li>
+                        <li>
+                            <a href="https://kamallifescience.com/career.html#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Business
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="https://kamallifescience.com/api.html">API</a>
+                                </li>
+                                <li>
+                                    <a href="https://kamallifescience.com/human-health.html">HUMAN HEALTH</a>
+                                </li>
+                                <li class="dropdown-submenu">
+                                    <a href="https://kamallifescience.com/animal-health.html" tabindex="-1">ANIMAL HEALTH</a>
+                                    <ul class="dropdown-menu">
+                                        <li class="">
+                                            <a href="https://kamallifescience.com/runinant-health.html">RUMINANT HEALTH</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://kamallifescience.com/poultry-health.html">POULTRY HEALTH</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://kamallifescience.com/companion-animal-health.html">COMPANION ANIMAL HEALTH</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://kamallifescience.com/equine-health.html">EQUINE HEALTH</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://kamallifescience.com/aqua-health.html">AQUA HEALTH</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="https://kamallifescience.com/agriculture.html">AGRICULTURE</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="https://kamallifescience.com/global-presence.html">Global Presence</a>
+                        </li>
+                        <li class="active">
+                            <a href="https://kamallifescience.com/career.html">Career</a>
+                        </li>
+                        <li>
+                            <a href="https://kamallifescience.com/contact.html">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container-fluid -->
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <div class="innerImgBox career">
+                <div class="container">
+                    <h1 class="bannerFont-style white-font"> CAREER</h1>
+                </div>
+            </div>
+            <div class="container contentBox">
+                <p>We are committed to provide a warm, friendly and open working environment that encourages ideas and innovation.
+                    The focus is to allow everyone to enhance their creativity and think differently to create value. We
+                    have deep belief in transparency and perennial growth for each one. We builds people to build its business
+                    and helps them live a better life. Safety of the employee is the top-most priority of the management
+                    and efforts are made to ensure a safe and secure working environment for all the employees.</p>
+
+                <p>We offers career opportunities in many business areas, including, sales, marketing, human resources, information
+                    technology, administration and manufacturing.</p>
+
+                <p>Interested candidates may apply with resume backed with complete details to : info@kamallifescience.com</p>
+            </div>
+        </section>
+        <footer>
+            <div class="footer-links">
+                <div class="container">
+                    <ul class="nav navbar-nav">
+                        <li>
+                            <a href="https://kamallifescience.com/index.html">Home</a>
+                        </li>
+                        <li>
+                            <a href="https://kamallifescience.com/about.html">About Us</a>
+                        </li>
+                        <li>
+                            <a href="https://kamallifescience.com/animal-health.html">Business</a>
+                        </li>
+                        <li>
+                            <a href="https://kamallifescience.com/global-presence.html">Global Presence</a>
+                        </li>
+                        <li>
+                            <a href="https://kamallifescience.com/career.html">Career</a>
+                        </li>
+                        <li>
+                            <a href="https://kamallifescience.com/contact.html">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="container">
+                    <div class="col-sm-6">
+                        <p class="small">Copyright © 2018 Kamal Lifes Science. All Rights Reserved. </p>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="social text-right">
+                            <a href="https://kamallifescience.com/career.html#">
+                                <i class="fab fa-facebook-f"></i>
+                            </a> &nbsp;
+                            <a href="https://kamallifescience.com/career.html#">
+                                <i class="fab fa-linkedin-in"></i>
+                            </a> &nbsp;
+                            <a href="https://kamallifescience.com/career.html#">
+                                <i class="fab fa-youtube"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </main>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="./Career_files/jquery.min.js.download"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="./Career_files/bootstrap.min.js.download"></script>
+
+
+</body></html>
