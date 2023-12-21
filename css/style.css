@@ -1,9 +1,10 @@
 /********** Template CSS **********/
 :root {
-    --primary: #7AB730;
+    --primary:  #0098DA;;
     --secondary: #FFD33C;
     --light: #F3F3F3;
     --dark: #212121;
+    
 }
 
 [class^=flaticon-]:before,
@@ -76,7 +77,7 @@
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-    color: #0098DA;;
+    color: #0098DA;
 }
 
 @media (min-width: 992px) {
@@ -373,7 +374,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(122, 183, 48, .8);
+    background: #0098DA;
     transition: .5s;
     opacity: 0;
 }
