@@ -283,6 +283,7 @@
 .bg-offer {
     background: url(../img/offer.jpg) top right no-repeat;
     background-size: cover;
+    margin-top: none;
 }
 
 .price-carousel::after {
@@ -455,4 +456,10 @@
 
 .blog-item a:hover i::after {
     width: 50px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
 }
