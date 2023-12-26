@@ -242,7 +242,7 @@
 
 .product-item .btn-action {
     position: absolute;
-    width: 100%;
+    width: 400px;
     bottom: -40px;
     left: 0;
     opacity: 0;
@@ -255,7 +255,7 @@
 }
 
 .product-carousel .owl-nav {
-    width: 100%;
+   
     text-align: center;
     display: flex;
     justify-content: center;
@@ -282,7 +282,7 @@
 }
 
 .bg-offer {
-    background: url(../img/offer.jpg) top right no-repeat;
+    background: url(../img/Home_page_Welcome.jpg) top right no-repeat;
     background-size: cover;
     margin-top: none;
 }
@@ -485,4 +485,11 @@
     }
     .dropdown-menu > li:hover > .dropdown-submenu {
     display: block;
+    }
+
+    .text-black{color:#080101 !important}
+
+    ::ng-deep .owl-carousel .owl-item img {
+        display: block;
+        width: 500px;
     }
